@@ -1,8 +1,6 @@
-## Hi there 👋
+# Hi friend, I'm Glad Khumalo 👋
 
-# Hi, I'm Glad Khumalo 👋
-
-💻 IT Support Specialist | Cloud & Networking Enthusiast | Future DevSecOps Engineer
+💻 System Aadministrator | Cloud & Networking Enthusiast | Future DevSecOps Engineer
 
 ---
 
@@ -10,7 +8,7 @@
 
 I'm an IT professional passionate about building a strong foundation in **cloud computing, networking, and cybersecurity**.
 
-I currently work in **IT Support**, where I solve technical problems, support users, and continuously sharpen my troubleshooting skills. My goal is to evolve into a **Cloud Engineer and eventually specialize in DevSecOps**, combining **cloud infrastructure, automation, and security**.
+This portfolio serves as a platform for developing robust systems, analyzing behaviors, fortifying environments, and distilling complexity into actionable insights. It embodies my approach to security: methodical, systematic, and oriented toward sustainable, long-term outcomes.
 
 I believe in **continuous learning, hands-on labs, and building in public**.
 
@@ -22,7 +20,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 * 🌐 Strengthening **Networking (CCNA-level knowledge)**
 * 🖥 Improving **System Administration skills**
 * ⚡ Practicing **PowerShell automation**
-* 🔐 Preparing for a future transition into **Cloud Security / DevSecOps**
+* 🔐 Preparing for a future transition into **Cloud Security**
 
 ---
 
