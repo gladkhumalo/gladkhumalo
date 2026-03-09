@@ -33,7 +33,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 - [CompTIA Network+](https://www.credly.com/badges/55ee5805-4077-460e-81ec-ff4dcac47e16/linked_in_profile)
 - [CompTIA A+](https://www.credly.com/badges/2eb05400-604c-4e17-863b-153098546fe6/linked_in_profile)
 
-*(Currently preparing for Azure Administrator certification)*
+*(Currently preparing for Azure Networking certification)*
 
 ---
 
@@ -42,7 +42,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 **Operating Systems**
 
 * Windows Server
-* Linux (basic administration)
+* Linux
 
 **Cloud**
 
@@ -91,7 +91,7 @@ More projects coming soon as I continue building and documenting my journey.
 
 ## 🌍 Connect With Me
 
-* LinkedIn: *(Add your LinkedIn link here)*
+* LinkedIn: *(www.linkedin.com/in/gladkhumalo)*
 * Portfolio Website: *(Add when ready)*
 
 ---
