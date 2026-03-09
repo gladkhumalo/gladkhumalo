@@ -1,7 +1,8 @@
-# Hi friend, I'm Glad Khumalo 👋
+# Hello friend, I'm Glad Khumalo 👋
 
 💻 System Administrator | Cloud & Networking Enthusiast 
 
+<br>
 
 ## 🚀 About Me
 
