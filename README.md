@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm an IT professional passionate about building a strong foundation in **cloud computing, networking, and cybersecurity**.
+I'm an IT professional passionate about building 'stuff' in the **cloud, networking, and cybersecurity**.
 
 This portfolio serves as a platform for developing robust systems, analyzing behaviors, fortifying environments, and distilling complexity into actionable insights. It embodies my approach to security: methodical, systematic, and oriented toward sustainable, long-term outcomes.
 
@@ -26,9 +26,12 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 ## 🏆 Certifications
 
-* CompTIA A+
-* CompTIA Network+
-* Cisco Networking Academy Certificate
+- [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/e1f44880172c15f6?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft 365 Certified: Administrator Expert (MS-102)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/55fcce9d3010b0a5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/bf2a4c9dfad3d0c0?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [Microsoft 365 Certified: Fundamentals (MS-900)](https://learn.microsoft.com/en-gb/users/gladkhumalo-6546/credentials/3f19510c4d9fdfea?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- [CompTIA Network+](https://www.credly.com/badges/55ee5805-4077-460e-81ec-ff4dcac47e16/linked_in_profile)
+- [CompTIA A+](https://www.credly.com/badges/2eb05400-604c-4e17-863b-153098546fe6/linked_in_profile)
 
 *(Currently preparing for Azure Administrator certification)*
 
