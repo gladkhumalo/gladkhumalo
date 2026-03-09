@@ -1,8 +1,7 @@
 # Hi friend, I'm Glad Khumalo 👋
 
-💻 System Aadministrator | Cloud & Networking Enthusiast | Future DevSecOps Engineer
+💻 System Administrator | Cloud & Networking Enthusiast 
 
----
 
 ## 🚀 About Me
 
