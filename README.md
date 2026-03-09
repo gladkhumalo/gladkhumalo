@@ -92,7 +92,6 @@ More projects coming soon as I continue building and documenting my journey.
 ## 🌍 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gladkhumalo)
-* Portfolio Website: *(Add when ready)*
 
 ---
 
