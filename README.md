@@ -1,8 +1,7 @@
 # Hello friend, I'm Glad Khumalo 👋
 
-💻 System Administrator | Cloud & Networking Enthusiast 
+💻 Cloud | Networking | Cybersecurity | Systems Administration
 
-<br>
 
 ## 🚀 About Me
 
@@ -37,30 +36,63 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 ---
 
-## 🛠 Tech Stack & Tools
+🧠 Core Technical Areas
 
-**Operating Systems**
+#### ☁️ Cloud Computing
 
-* Windows Server
-* Linux
+Cloud infrastructure management
 
-**Cloud**
+Virtual machines and compute services
 
-* Microsoft Azure
+Storage and backup solutions
 
-**Networking**
+Identity and access management
 
-* TCP/IP
-* DNS
-* DHCP
-* VPN
-* Network Troubleshooting
+Hybrid cloud architecture
 
-**Scripting & Tools**
+Cloud monitoring and governance
 
-* PowerShell
-* Git & GitHub
-* Command Line
+
+#### 🌐 Networking
+
+TCP/IP
+
+Subnetting and IP addressing
+
+Routing and switching
+
+Network troubleshooting
+
+VPNs and hybrid connectivity
+
+Network security concepts
+
+
+#### 🔐 Cybersecurity
+
+Identity and access security
+
+Network security
+
+Security monitoring
+
+Threat detection and prevention
+
+Security best practices for cloud environments
+
+#### 🖥️ Systems Administration
+
+Windows administration
+
+Active Directory fundamentals
+
+User and permission management
+
+System troubleshooting
+
+Server configuration and maintenance
+
+Automation with scripting
 
 ---
 
@@ -74,16 +106,6 @@ This GitHub documents my hands-on learning and projects, including:
 * IT troubleshooting scenarios
 
 These projects represent my commitment to learning by building and documenting real technical work.
-
-## 📚 Current Learning Journey
-
-I'm actively building labs and projects around:
-
-* Azure Infrastructure
-* Identity & Access Management
-* Virtual Networking
-* Automation with PowerShell
-* Cloud Security Fundamentals
 
 ---
 
@@ -101,6 +123,7 @@ More projects coming soon as I continue building and documenting my journey.
 ---
 
 ## 🌍 Connect With Me
+I'm always open to connecting with other professionals and learners in the IT, cloud, and cybersecurity community.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gladkhumalo)
 
