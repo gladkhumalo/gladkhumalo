@@ -64,6 +64,17 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 ---
 
+### 🧪 What You'll Find on This GitHub
+This GitHub documents my hands-on learning and projects, including:
+* Cloud labs and architecture experiments
+* Networking practice labs
+* PowerShell and automation scripts
+* Infrastructure configuration projects
+* Security learning notes
+* IT troubleshooting scenarios
+
+These projects represent my commitment to learning by building and documenting real technical work.
+
 ## 📚 Current Learning Journey
 
 I'm actively building labs and projects around:
