@@ -94,7 +94,7 @@ Server configuration and maintenance
 
 Automation with scripting
 
-|Name      | Email          |
+|Cloud      | Netowrking          | Security | 
 | -------- | -------------- |
 | John Doe | john@gmail.com |
 | Jane Doe | jane@gmail.com |
