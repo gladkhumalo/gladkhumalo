@@ -94,6 +94,12 @@ Server configuration and maintenance
 
 Automation with scripting
 
+|Name      | Email          |
+| -------- | -------------- |
+| John Doe | john@gmail.com |
+| Jane Doe | jane@gmail.com |
+
+
 ---
 
 ### 🧪 What You'll Find on This GitHub
