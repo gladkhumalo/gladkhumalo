@@ -55,11 +55,7 @@ These projects represent my commitment to learning by building and documenting r
 ## 📂 Projects
 
 Here are some projects you'll find on my GitHub:
-
-* 🔧 IT Support troubleshooting scripts
-* ⚡ PowerShell automation labs
   [azure-linux-nginx-https-letsencrypt](https://github.com/gladkhumalo/azure-linux-nginx-https-letsencrypt)
-* 🌐 Networking labs and configurations
 
 More projects coming soon as I continue building and documenting my journey.
 
