@@ -1,7 +1,7 @@
 # Hello friend, I'm Glad Khumalo 👋
 
 💻 Cloud | Networking | Cybersecurity | Systems Administration
-![Cloud](https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud-blue?style=for-the-badge&logo=icloud&logoColor=white)
 
 
 ## 🚀 About Me
