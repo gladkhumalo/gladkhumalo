@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm an IT professional passionate about building 'stuff' in the **cloud, networking, and cybersecurity**.
+I'm an IT professional passionate about building scalable solutions in the **cloud, networking, and cybersecurity**.
 
 This portfolio serves as a platform for developing robust systems, analyzing behaviors, fortifying environments, and distilling complexity into actionable insights. It embodies my approach to security: methodical, systematic, and oriented toward sustainable, long-term outcomes.
 
@@ -38,7 +38,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 ---
 
-🧠 Core Technical Areas
+## 🧠 Core Technical Areas
 
 | ☁️ Cloud Computing | 🌐 Networking | 🔐 Cybersecurity | 🖥️ Systems Administration |
 |--------------------------------|---|---|---|
@@ -81,7 +81,7 @@ More projects coming soon as I continue building and documenting my journey.
 ## 🌍 Connect With Me
 I'm always open to connecting with other professionals and learners in the IT, cloud, and cybersecurity community.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/gladkhumalo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Glad_Khumalo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gladkhumalo)
 
 ---
 
@@ -98,18 +98,3 @@ My mission is to become a **highly skilled cloud engineer and security professio
 
 ⭐ *“Continuous learning and disciplined practice build real expertise.”*
 
-
-<!--
-**gladkhumalo/gladkhumalo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
