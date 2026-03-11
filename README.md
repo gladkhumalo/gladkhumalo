@@ -1,13 +1,8 @@
 # Hello friend, I'm Glad Khumalo 👋
-![Cloud](https://img.shields.io/badge/Cloud-blue?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloud](https://img.shields.io/badge/Networking-green?style=for-the-badge&logo=icloud&logoColor=white)
-![Cloud](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=icloud&logoColor=white)
-![Cloud](https://img.shields.io/badge/Sysadmin-yellow?style=for-the-badge&logo=icloud&logoColor=white)
-
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00897B?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Systems Administration](https://img.shields.io/badge/Systems_Administration-6A1B9A?style=for-the-badge&logo=windows&logoColor=white)
+![Systems Administration](https://img.shields.io/badge/Systems_Administration-000000?style=for-the-badge&logo=windows&logoColor=white)
 
 
 ## 🚀 About Me
