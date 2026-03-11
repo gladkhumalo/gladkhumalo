@@ -4,6 +4,10 @@
 ![Cloud](https://img.shields.io/badge/Cybersecurity-black?style=for-the-badge&logo=icloud&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Sysadmin-yellow?style=for-the-badge&logo=icloud&logoColor=white)
 
+![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
 
 ## 🚀 About Me
 
