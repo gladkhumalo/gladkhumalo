@@ -39,7 +39,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 🧠 Core Technical Areas
 
 | ☁️ Cloud Computing | 🌐 Networking | 🔐 Cybersecurity | 🖥️ Systems Administration |
-|---|---|---|---|
+|--------------------------------|---|---|---|
 | Cloud infrastructure management | TCP/IP | Identity and access security | Windows administration |
 | Virtual machines and compute services | Subnetting and IP addressing | Network security | Active Directory fundamentals |
 | Storage and backup solutions | Routing and switching | Security monitoring | User and permission management |
