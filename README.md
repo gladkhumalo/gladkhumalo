@@ -2,6 +2,9 @@
 
 💻 Cloud | Networking | Cybersecurity | Systems Administration
 ![Cloud](https://img.shields.io/badge/Cloud-blue?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Networking-green?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cybersecurity-red?style=for-the-badge&logo=icloud&logoColor=white)
+![Cloud](https://img.shields.io/badge/Sysadmin-orange?style=for-the-badge&logo=icloud&logoColor=white)
 
 
 ## 🚀 About Me
