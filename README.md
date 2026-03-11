@@ -38,66 +38,14 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 🧠 Core Technical Areas
 
-#### ☁️ Cloud Computing
-
-Cloud infrastructure management
-
-Virtual machines and compute services
-
-Storage and backup solutions
-
-Identity and access management
-
-Hybrid cloud architecture
-
-Cloud monitoring and governance
-
-
-#### 🌐 Networking
-
-TCP/IP
-
-Subnetting and IP addressing
-
-Routing and switching
-
-Network troubleshooting
-
-VPNs and hybrid connectivity
-
-Network security concepts
-
-
-#### 🔐 Cybersecurity
-
-Identity and access security
-
-Network security
-
-Security monitoring
-
-Threat detection and prevention
-
-Security best practices for cloud environments
-
-#### 🖥️ Systems Administration
-
-Windows administration
-
-Active Directory fundamentals
-
-User and permission management
-
-System troubleshooting
-
-Server configuration and maintenance
-
-Automation with scripting
-
-|Cloud      | Netowrking          | Security | 
-| -------- | -------------- |
-| John Doe | john@gmail.com |
-| Jane Doe | jane@gmail.com |
+| ☁️ Cloud Computing | 🌐 Networking | 🔐 Cybersecurity | 🖥️ Systems Administration |
+|---|---|---|---|
+| Cloud infrastructure management | TCP/IP | Identity and access security | Windows administration |
+| Virtual machines and compute services | Subnetting and IP addressing | Network security | Active Directory fundamentals |
+| Storage and backup solutions | Routing and switching | Security monitoring | User and permission management |
+| Identity and access management | Network troubleshooting | Threat detection and prevention | System troubleshooting |
+| Hybrid cloud architecture | VPNs and hybrid connectivity | Security best practices for cloud environments | Server configuration and maintenance |
+| Cloud monitoring and governance | Network security concepts | | Automation with scripting |
 
 
 ---
