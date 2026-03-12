@@ -34,8 +34,6 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 - [CompTIA Network+](https://www.credly.com/badges/55ee5805-4077-460e-81ec-ff4dcac47e16/linked_in_profile)
 - [CompTIA A+](https://www.credly.com/badges/2eb05400-604c-4e17-863b-153098546fe6/linked_in_profile)
 
-*(Currently preparing for Azure Networking certification)*
-
 ---
 
 
