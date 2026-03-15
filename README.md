@@ -18,7 +18,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 ## 🧠 Current Focus
 
 * ☁️ Learning **Microsoft Azure**
-* 🌐 Strengthening **Networking (CCNA-level knowledge)**
+* 🌐 Strengthening **Networking**
 * 🖥 Improving **System Administration skills**
 * ⚡ Practicing **PowerShell automation**
 * 🔐 Preparing for a future transition into **Cloud Security**
