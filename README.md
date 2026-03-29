@@ -54,6 +54,8 @@ These projects represent my commitment to learning by building and documenting r
 
 Here are some projects you'll find on my GitHub: <br>
 * [azure-linux-nginx-https-letsencrypt](https://github.com/gladkhumalo/azure-linux-nginx-https-letsencrypt)
+*
+*
 
 ---
 
