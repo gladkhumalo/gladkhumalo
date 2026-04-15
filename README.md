@@ -33,8 +33,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 - [Microsoft 365 Certified: Fundamentals (MS-900)](https://learn.microsoft.com/en-gb/users/gladkhumalo-6546/credentials/3f19510c4d9fdfea?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [CompTIA Network+](https://www.credly.com/badges/55ee5805-4077-460e-81ec-ff4dcac47e16/linked_in_profile)
 - [CompTIA A+](https://www.credly.com/badges/2eb05400-604c-4e17-863b-153098546fe6/linked_in_profile) <br>
-  ***(Currently working on the AZ-700)***
----
+  [Microsoft Certified: Azure Network Engineer Associate](https://learn.microsoft.com/en-gb/users/gladkhumalo-6546/credentials/95d1ad20e9b03e6e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 
 
 ### 🧪 What You'll Find on This GitHub
