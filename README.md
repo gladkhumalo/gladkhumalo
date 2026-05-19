@@ -65,16 +65,5 @@ I'm always open to connecting with other professionals and learners in the IT, c
 
 ---
 
-## 📈 Goals
-
-My mission is to become a **highly skilled cloud engineer and security professional** by:
-
-* Building real-world projects
-* Earning industry certifications
-* Sharing my journey publicly
-* Contributing to the tech community
-
----
-
 ⭐ *“Continuous learning and disciplined practice build real expertise.”*
 
