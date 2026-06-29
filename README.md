@@ -1,4 +1,4 @@
-# Hello friend, I'm Glad Khumalo 👋
+# Hi, I'm Glad 👋
 ![Cloud Computing](https://img.shields.io/badge/Cloud-0078D4?style=for-the-badge&logo=icloud&logoColor=white)
 ![Networking](https://img.shields.io/badge/Networking-00897B?style=for-the-badge&logo=cisco&logoColor=white)
 ![Cybersecurity](https://img.shields.io/badge/Cybersecurity-D32F2F?style=for-the-badge&logo=hackthebox&logoColor=white)
