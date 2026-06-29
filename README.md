@@ -27,7 +27,7 @@ I believe in **continuous learning, hands-on labs, and building in public**.
 
 ## 🏆 Certifications
 
-- [Microsoft Certified: Azure Network Engineer Associate (AZ-700)](https://learn.microsoft.com/en-gb/users/gladkhumalo-6546/credentials/95d1ad20e9b03e6e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
+- AZ-700(https://learn.microsoft.com/en-gb/users/gladkhumalo-6546/credentials/95d1ad20e9b03e6e?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft Certified: Azure Administrator Associate (AZ-104)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/e1f44880172c15f6?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft 365 Certified: Administrator Expert (MS-102)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/55fcce9d3010b0a5?ref=https%3A%2F%2Fwww.linkedin.com%2F)
 - [Microsoft 365 Certified: Endpoint Administrator Associate (MD-102)](https://learn.microsoft.com/en-us/users/gladkhumalo-6546/credentials/bf2a4c9dfad3d0c0?ref=https%3A%2F%2Fwww.linkedin.com%2F)
