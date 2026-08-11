@@ -42,8 +42,6 @@ This GitHub documents my hands-on learning and projects, including:
 * Networking practice labs
 * PowerShell and automation scripts
 * Infrastructure configuration projects
-* Security learning notes
-* IT troubleshooting scenarios
 
 These projects represent my commitment to learning by building and documenting real technical work.
 
