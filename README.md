@@ -1,4 +1,4 @@
-# Hi, I'm Glad Khumalo 👋
+# Hi, I'm Glad 👋
 
 I'm a Systems Administrator at **Novasys** in South Africa. I build PowerShell automation and Azure infrastructure labs focused on reliable administration, troubleshooting, networking, and security.
 
