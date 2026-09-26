@@ -14,7 +14,6 @@ I'm a Systems Administrator at **Novasys** in South Africa. I build PowerShell a
 | Project | What it demonstrates |
 | --- | --- |
 | [System Information Script](https://github.com/gladkhumalo/System-Info-Script) | Windows inventory, structured JSON reporting, and automated PowerShell quality checks |
-| [100 Days of PowerShell](https://github.com/gladkhumalo/PowerShell) | Practical administration, monitoring, and troubleshooting automation |
 | [Secure Nginx on Azure](https://github.com/gladkhumalo/azure-linux-nginx-https-letsencrypt) | Azure VM deployment, Linux administration, DNS, Nginx, and TLS |
 | [PowerShell Self-Signed Certificate](https://github.com/gladkhumalo/Self-Signed-Certificate-in-Windows-using-PowerShell) | Certificate creation and trust for isolated Windows lab environments |
 
