@@ -1,6 +1,6 @@
 # Hi, I'm Glad 👋
 
-I'm a Systems Administrator at **Novasys** in South Africa. I build PowerShell automation and Azure infrastructure labs focused on reliable administration, troubleshooting, networking, and security.
+I'm a Systems Administrator at **Novasys** in South Africa. I build System automation and Azure infrastructure labs focused on reliable administration, troubleshooting, networking, and security.
 
 ## What I'm working on
 
