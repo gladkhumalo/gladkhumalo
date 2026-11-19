@@ -1,6 +1,6 @@
 # Hi, I'm Glad 👋
 
-I'm a Systems Administrator at **Novasys**, working with system infrastructure.
+I'm a Systems Administrator at **Novasys**.
 
 [Connect with me on LinkedIn](https://linkedin.com/in/gladkhumalo)
 
