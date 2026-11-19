@@ -1,6 +1,6 @@
 # Hi, I'm Glad 👋
 
-I'm a Systems Administrator at **Novasys**, working toward cloud-security roles. I build automation, Azure infrastructure, and networking and troubleshooting tools.
+I'm a Systems Administrator at **Novasys**, working with system infrastructure.
 
 [Connect with me on LinkedIn](https://linkedin.com/in/gladkhumalo)
 
